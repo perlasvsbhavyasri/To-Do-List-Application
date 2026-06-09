@@ -1,0 +1,36 @@
+VVIT UNIVERSITY
+
+MINI PROJECT DOCUMENTATION
+
+Project Title: To-Do List Application Using Python
+Student Name: P. Bhavya Sri
+Group: CSE-11
+Course: Python Programming
+
+1. Introduction
+This project is a simple To-Do List application created using Python. It helps the user manage daily tasks.
+
+2. Objective
+To understand basic Python programming concepts by developing a useful mini project.
+
+3. Concepts Used
+- Variables
+- Lists
+- Functions
+- Loops
+- If-else statements
+- File handling
+- JSON
+
+4. Features
+- Add task
+- View tasks
+- Delete task
+- Clear all tasks
+- Save tasks in file
+
+5. Working
+The user enters a task. The program stores the task in a JSON file. The user can view all tasks, delete any task, or clear all tasks.
+
+6. Conclusion
+This project is beginner-friendly and useful for learning Python basics through a real-life application.
